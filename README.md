@@ -137,8 +137,3 @@ Option B risks destabilizing the platform, burning out the team, and damaging lo
 Option A secures the foundation for sustainable growth and long-term product health.
 
 This case study demonstrates how the Multi-Agent Corporate Decision Intelligence System processes complex engineering-product trade-offs to produce grounded, actionable recommendations.
-┌───────────────────────────────────────────────────────────────────────────────┐
-│ VISUAL ANALYTICS LAYER │
-├───────────────────────────────────────────────────────────────────────────────┤
-│ Radar Chart, heatmap │
-└───────────────────────────────────────────────────────────────────────────────┘
